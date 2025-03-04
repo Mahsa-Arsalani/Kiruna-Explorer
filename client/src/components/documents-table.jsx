@@ -3,7 +3,7 @@ import { Stack, Typography } from "@mui/material";
 import { DocumentInfoModal } from "./link-list.jsx";
 import LinkIcon from "@mui/icons-material/Link";
 
-import DeleteIcon from "@mui/icons-material/Delete"; // Importa l'icona
+import DeleteIcon from "@mui/icons-material/Delete"; 
 import {
   Table,
   TableHeader,
